@@ -23,6 +23,7 @@ onnx = "*"
 #mlprodict = "*"
 xgboost = "*"
 onnxmltools = "*"
+giskard = "*"
 
 [dev-packages]
 jupyter = "*"
