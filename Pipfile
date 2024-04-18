@@ -24,6 +24,8 @@ onnx = "*"
 xgboost = "*"
 onnxmltools = "*"
 giskard = "*"
+matplotlib = "*"
+torch = "*"
 
 [dev-packages]
 jupyter = "*"
